@@ -5,8 +5,8 @@ module EmprestimoDeLivros
 //FALTA:
 //- definir que quando uma operação estiver sendo executada as outras não podem 
 //(para have um controle do que está acontecendo)
-//
-//
+//- asserts
+//- mais alguns fatos
 //
 
 // ---- ASSINATURAS ---- //
